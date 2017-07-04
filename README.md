@@ -5,4 +5,4 @@
 [redux-persist](https://github.com/rt2zz/redux-persist#basic-usage) - library to make Redux state persistent, saving it to localStorage, etc.
 
 ### React Native
-[Bunch of articles from Tal Kol on React Native optimiations](https://medium.com/@talkol)  
+[Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
