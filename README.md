@@ -9,4 +9,4 @@
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 
 ### Others
-[JavaScript projects guidelines](https://github.com/wearehive/project-guidelines#some-git-rules) - Best practices used in `hive`  
+[JavaScript projects guidelines](https://github.com/wearehive/project-guidelines) - Best practices used in `hive`  
