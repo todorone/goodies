@@ -7,3 +7,6 @@
 ### React Native
 [Native directory](https://native.directory/) - List of React Native libraries, convenient to search/sort  
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
+
+### Others
+[JavaScript projects guidelines](https://github.com/wearehive/project-guidelines#some-git-rules) - Best practices used in `hive`  
