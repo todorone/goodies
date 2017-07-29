@@ -2,6 +2,7 @@
 
 ### React
 [Formik](https://github.com/jaredpalmer/formik) - minimal HOC library to create forms in React  
+[risc](https://github.com/ankeetmaini/react-infinite-scroll-component) - infinite scroll component for React  
 [redux-persist](https://github.com/rt2zz/redux-persist#basic-usage) - library to make Redux state persistent, saving it to localStorage, etc.
 
 ### React Native
