@@ -7,6 +7,7 @@
 
 ### React Native
 [Native directory](https://native.directory/) - List of React Native libraries, convenient to search/sort  
+[react-native-dotenv](https://github.com/zetachang/react-native-dotenv) - React Native alternative to `dotenv`  
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 
 ### Others
