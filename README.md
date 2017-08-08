@@ -11,4 +11,5 @@
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 
 ### Others
+[Accelerating site first look by changing assets loading priority](https://css-tricks.com/the-critical-request/)  
 [JavaScript projects guidelines](https://github.com/wearehive/project-guidelines) - Best practices used in `hive`  
