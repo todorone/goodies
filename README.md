@@ -11,5 +11,6 @@
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 
 ### Others
+[lint-staged](https://github.com/okonet/lint-staged) - run linting only on files that will be commited, great for big projects  
 [Accelerating site first look by changing assets loading priority](https://css-tricks.com/the-critical-request/)  
 [JavaScript projects guidelines](https://github.com/wearehive/project-guidelines) - Best practices used in `hive`  
