@@ -9,6 +9,7 @@
 [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) - Handy tool for quick building/validating/processing forms for React Native  
 [react-native-dotenv](https://github.com/zetachang/react-native-dotenv) - React Native alternative to `dotenv`  
 [Reactotron](https://github.com/infinitered/reactotron) - Powerful desktop app for React Native inspecting / debugging  
+[react-native-create-library](https://github.com/frostney/react-native-create-library) - CLI for scaffolding RN native modules  
 [Native directory](https://native.directory/) - List of React Native libraries, convenient to search/sort  
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 
