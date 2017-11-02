@@ -12,6 +12,7 @@
 
 ### Tutorial and Tips & Tricks
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
+[Adding custom fonts to project](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
 [How to figure out imported font name on iOS](https://stackoverflow.com/a/41636431/7126059)  
 
 ### Related libraries
