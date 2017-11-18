@@ -16,6 +16,9 @@
 [Adding custom fonts to project](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)  
 [How to figure out imported font name on iOS](https://stackoverflow.com/a/41636431/7126059)  
 
+### Guidelines & Best practices
+[Material Design Guidelines](https://material.io/guidelines/) - design guidelines for Android apps  
+
 ### Related libraries
 [redux-persist](https://github.com/rt2zz/redux-persist#basic-usage) - library to make Redux state persistent, saving it to localStorage, etc.  
 
