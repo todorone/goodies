@@ -9,6 +9,7 @@
 ### Libraries
 [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) - Handy tool for quick building/validating/processing forms for React Native  
 [react-native-dotenv](https://github.com/zetachang/react-native-dotenv) - React Native alternative to `dotenv`  
+[lingui](https://github.com/lingui/js-lingui) - Seamless i18n localization in Javascript and React  
 
 ### Tutorial and Tips & Tricks
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
