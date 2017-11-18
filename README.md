@@ -17,6 +17,7 @@
 [How to figure out imported font name on iOS](https://stackoverflow.com/a/41636431/7126059)  
 
 ### Guidelines & Best practices
+[Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) - design guidelines for iOS apps  
 [Material Design Guidelines](https://material.io/guidelines/) - design guidelines for Android apps  
 
 ### Related libraries
