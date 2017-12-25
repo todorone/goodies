@@ -25,7 +25,7 @@
 [redux-persist](https://github.com/rt2zz/redux-persist#basic-usage) - library to make Redux state persistent, saving it to localStorage, etc.  
 
 ### Etc
-[Spectacle](https://github.com/FormidableLabs/spectacle) - Create awesome ineractive presentations using React  
+[Spectacle](https://github.com/FormidableLabs/spectacle) - Create awesome interactive presentations using React  
 [Carbon](https://carbon.now.sh/) - Create awesome code screenshots w/customized look and feel  
 [lint-staged](https://github.com/okonet/lint-staged) - run linting only on files that will be commited, great for big projects  
 [JavaScript projects guidelines](https://github.com/wearehive/project-guidelines) - Best practices used in `hive`  
