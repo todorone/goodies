@@ -14,8 +14,9 @@
 ### Tutorial and Tips & Tricks
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 [Tips on setting up/boosting Android building workflow for React Native](https://medium.com/@paterw00t_17915/android-react-native-fastlane-working-with-multiple-build-types-a9a6641c5704)  
-[Adding custom fonts to project](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)  
+[Adding custom fonts to React Native project](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)  
 [How to figure out imported font name on iOS](https://stackoverflow.com/a/41636431/7126059)  
+[How to resolve conflicts of native modules dependencies in React Native](https://jolicode.com/blog/handling-dependencies-conflict-and-locking-in-react-native)  
 
 ### Guidelines & Best practices
 [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) - design guidelines for iOS apps  
