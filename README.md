@@ -22,6 +22,9 @@
 [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) - design guidelines for iOS apps  
 [Material Design Guidelines](https://material.io/guidelines/) - design guidelines for Android apps  
 
+### Visual inspirations
+[ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - 7 animation ideas implemented into RN code  
+
 ### Related libraries
 [redux-persist](https://github.com/rt2zz/redux-persist#basic-usage) - library to make Redux state persistent, saving it to localStorage, etc.  
 
@@ -29,4 +32,3 @@
 [Spectacle](https://github.com/FormidableLabs/spectacle) - Create awesome interactive presentations using React  
 [Carbon](https://carbon.now.sh/) - Create awesome code screenshots w/customized look and feel  
 [lint-staged](https://github.com/okonet/lint-staged) - run linting only on files that will be commited, great for big projects  
-[JavaScript projects guidelines](https://github.com/wearehive/project-guidelines) - Best practices used in `hive`  
