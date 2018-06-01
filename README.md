@@ -12,6 +12,7 @@
 [lingui](https://github.com/lingui/js-lingui) - Seamless i18n localization in Javascript and React  
 
 ### Tutorial and Tips & Tricks
+[Building iOS native modules for RN using Swift](https://teabreak.e-spres-oh.com/swift-in-react-native-the-ultimate-guide-part-1-modules-9bb8d054db03)  
 [Bunch of articles from Tal Kol on React Native optimizations](https://medium.com/@talkol)  
 [Tips on setting up/boosting Android building workflow for React Native](https://medium.com/@paterw00t_17915/android-react-native-fastlane-working-with-multiple-build-types-a9a6641c5704)  
 [Adding custom fonts to React Native project](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)  
